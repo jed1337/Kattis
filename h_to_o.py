@@ -35,7 +35,7 @@ output = input()
 existing_molecules = get_atom_dict(molecule, molecule_quantity)
 output_molecules = sorted(get_atom_dict(output).items(), key=lambda x:-x[1])
 
-output_quantity = 10000
+output_quantity = 1000000000
 for tup in output_molecules:
     m, q = tup
     output_quantity = min(existing_molecules[m]//q, output_quantity)
