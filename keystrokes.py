@@ -1,9 +1,3 @@
-# https://open.kattis.com/problems/lyklagangriti
-# Wrong answer on arnarLLLBBun
-# Actual output = "unaar"
-# Expected output = "unnar"
-
-
 obfuscated = input()
 
 cursor_index = 0
@@ -14,7 +8,7 @@ for char in obfuscated:
     elif char == "R":
         cursor_index += 1
     elif char == "B":
-        del password_list[cursor_index]
+        del password_list[cursor_index - 1]
         cursor_index -= 1
     else:
         password_list.insert(cursor_index, char)
