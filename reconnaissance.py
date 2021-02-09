@@ -16,28 +16,42 @@ def separation(time, vehicles):
     return right_most - left_most
 
 
+def binary_search(vehicles):
+    lo = 0
+    hi = 1000000
+    threshold = 1e-4
+
+    iteration_limit = 50
+    iterations = 0
+
+    while abs(hi - lo) > threshold and iterations < iteration_limit:
+        mid = lo + (hi - lo) / 2
+        mid_left = mid - threshold
+        mid_right = mid + threshold
+
+        separation_mid = separation(mid, vehicles)
+        separation_left = separation(mid_left, vehicles)
+        separation_right = separation(mid_right, vehicles)
+
+        if separation_left < separation_mid and separation_left < separation_right:
+            hi = mid_left
+        elif separation_mid < separation_left and separation_mid < separation_right:
+            lo = mid_left
+            hi = mid_right
+        else:
+            lo = mid_right
+
+        iterations += 1
+
+    return hi
+
+
 vehicle_count = int(input())
 vehicles = []
+
 for _ in range(vehicle_count):
     position, velocity = list(map(int, input().split()))
     vehicles.append([position, velocity])
 
-lo = 0
-hi = 1000000
-while lo < hi:
-    mid1 = lo + (hi - lo) // 3
-    mid2 = mid1 + lo + (hi - lo) // 3
-
-    separation1 = separation(mid1, vehicles)
-    separation2 = separation(mid2, vehicles)
-    separationHi = separation(hi, vehicles)
-
-    if separation1 < separation2:
-        hi = mid1
-    elif separation2 < separationHi:
-        lo = mid1
-        hi = mid2
-    else:
-        lo = mid2
-
-print(separation(hi, vehicles))
+time = binary_search(vehicles)
+print(separation(time, vehicles))
