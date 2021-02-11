@@ -43,5 +43,4 @@ Problem | Solution |Verdict
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
-
-
+[zamka](https://open.kattis.com/problems/zamka) | [Zamka](zamka.py) | AC
