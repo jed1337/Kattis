@@ -1,28 +1,30 @@
-import math
+def solve(q, m, s, l):
+    time = 0
 
-# q, m, s, l = list(map(int, input().split()))
+    # spread out the l tasks amongst m
+    if l >= m:
+        time += (l // m) * q
+        l %= m
 
-# q, m, s, l = 2, 4, 3, 6
-# q, m, s, l = 3, 4, 3, 5
-# q, m, s, l = 10, 2, 0, 1
-# q, m, s, l = 5, 2, 8, 3
-q, m, s, l = 2, 1000000, 500000, 500000
+    # If there are no more l tasks, spread out the s tasks amongst m
+    if l == 0:
+        time += (s // m)
+        return time + (0 if s % m == 0 else 1)
 
-time = 0
+    # Allocate the remaining l tasks in m
+    time += q
 
-# Spread out l amongst all the machines
-time += (l // m) * q
-time += (math.ceil((l % m) / m)) * q
+    # Allocate what s tasks we can in the remaining machines to even everything off
+    s -= (m - l) * q
 
-# Allocate the areas not given a slot to s
-not_given_a_slot = m - (l % m)
-s -= not_given_a_slot * q
+    if s <= 0:
+        return time
 
-if s <= 0:
-    s = 0
+    # Spread out the last s tasks amongst m
+    time += s // m
+    return time + (0 if s % m == 0 else 1)
 
-# Spread out s amongst all the machines
-time += (s // m)
-time += math.ceil((s % m) / m)
 
-print(time)
+q, m, s, l = list(map(int, input().split()))
+
+print(solve(q, m, s, l))

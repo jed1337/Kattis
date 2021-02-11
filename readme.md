@@ -37,7 +37,7 @@ Problem | Solution |Verdict
 [savingforretirement](https://open.kattis.com/problems/savingforretirement) | [Saving For Retirement](saving_for_retirement.py) | AC
 [shopaholic](https://open.kattis.com/problems/shopaholic) | [Shopaholic](shopaholic.py) | AC
 [soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
-[smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | WA
+[smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
