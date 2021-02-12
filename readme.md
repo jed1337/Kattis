@@ -39,6 +39,7 @@ Problem | Solution |Verdict
 [soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
+[supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
