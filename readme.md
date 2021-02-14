@@ -13,6 +13,7 @@ Problem | Solution |Verdict
 [classrooms](https://open.kattis.com/problems/classrooms) | [Classrooms](classrooms.py) | WA
 [cold](https://open.kattis.com/problems/cold) | [Coldputer Science](coldputer_science.py) | AC
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
+[different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
 [doctorkattis](https://open.kattis.com/problems/doctorkattis) | [Doctor Kattis](doctor_kattis.py) | TLE
 [financialplanning](https://open.kattis.com/problems/financialplanning) | [Financial Planning](financial_planning.py) | AC
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
