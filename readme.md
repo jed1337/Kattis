@@ -15,6 +15,7 @@ Problem | Solution |Verdict
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
 [different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
 [doctorkattis](https://open.kattis.com/problems/doctorkattis) | [Doctor Kattis](doctor_kattis.py) | TLE
+[faktor](https://open.kattis.com/problems/faktor) | [Faktor](faktor.py) | AC
 [financialplanning](https://open.kattis.com/problems/financialplanning) | [Financial Planning](financial_planning.py) | AC
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
 [freeweights](https://open.kattis.com/problems/freeweights) | [Free Weights](free_weights.py) | AC
