@@ -30,6 +30,7 @@ Problem | Solution |Verdict
 [icpcteamselection](https://open.kattis.com/problems/icpcteamselection) | [ICPC Team Selection](icpc_team_selection.py) | AC
 [lyklagangriti](https://open.kattis.com/problems/lyklagangriti) | [Keystrokes](keystrokes.py) | AC
 [mirror](https://open.kattis.com/problems/mirror) | [Mirror Images](mirror_images.py) | AC
+[monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
 [natjecanje](https://open.kattis.com/problems/natjecanje) | [Natjecanje](natjecanje.py) | AC
 [oddmanout](https://open.kattis.com/problems/oddmanout) | [Odd Man Out](odd_man_out.py) | AC
 [outofsorts](https://open.kattis.com/problems/outofsorts) | [Out Of Sorts](out_of_sorts.py) | AC
@@ -44,7 +45,7 @@ Problem | Solution |Verdict
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
-[trik](https://open.kattis.com/problems/trik) | [Trik](trik.py) | AC
+[trik](https://open.kattis.com/problems/trik) | [Trik](tarifa.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
