@@ -44,6 +44,7 @@ Problem | Solution |Verdict
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
+[trik](https://open.kattis.com/problems/trik) | [Trik](trik.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
