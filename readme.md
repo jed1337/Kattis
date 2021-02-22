@@ -4,6 +4,7 @@ Python solutions to [Kattis](https://open.kattis.com/) problems
 
 Problem | Solution |Verdict
 --- | --- | ---
+[alphabetspam](https://open.kattis.com/problems/alphabetspam) | [Alphabet Spam](alphabet_spam.py) | AC
 [aprizenoonecanwin](https://open.kattis.com/problems/aprizenoonecanwin) | [A Prize No One Can Win](a_prize_no_one_can_win.py) | AC
 [autori](https://open.kattis.com/problems/autori) | [Autori](autori.py) | AC
 [bijele](https://open.kattis.com/problems/bijele) | [Bijele](bijele.py) | AC
