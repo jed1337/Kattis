@@ -30,6 +30,7 @@ Problem | Solution |Verdict
 [haypoints](https://open.kattis.com/problems/haypoints) | [Hay Points](hay_points.py) | AC
 [helpaphd](https://open.kattis.com/problems/helpaphd) | [Help A PhD Candidate Out](help_a_phd_candidate_out.py) | AC
 [icpcteamselection](https://open.kattis.com/problems/icpcteamselection) | [ICPC Team Selection](icpc_team_selection.py) | AC
+[ladder](https://open.kattis.com/problems/ladder) | [Ladder](ladder.py) | AC
 [lyklagangriti](https://open.kattis.com/problems/lyklagangriti) | [Keystrokes](keystrokes.py) | AC
 [mirror](https://open.kattis.com/problems/mirror) | [Mirror Images](mirror_images.py) | AC
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
