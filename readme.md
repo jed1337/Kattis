@@ -10,6 +10,7 @@ Problem | Solution |Verdict
 [autori](https://open.kattis.com/problems/autori) | [Autori](autori.py) | AC
 [bijele](https://open.kattis.com/problems/bijele) | [Bijele](bijele.py) | AC
 [birds](https://open.kattis.com/problems/birds) | [Birds On A Wire](birds_on_a_wire.py) | AC
+[bubbletea](https://open.kattis.com/problems/bubbletea) | [Delicious Bubble Tea](delicious_bubble_tea.py) | WA
 [carefulascent](https://open.kattis.com/problems/carefulascent) | [Careful Ascent](careful_ascent.py) | AC
 [cetvrta](https://open.kattis.com/problems/cetvrta) | [Cetvrta](cetvrta.py) | AC
 [classrooms](https://open.kattis.com/problems/classrooms) | [Classrooms](classrooms.py) | WA
