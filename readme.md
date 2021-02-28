@@ -8,6 +8,7 @@ Problem | Solution |Verdict
 [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [Alphabet Spam](alphabet_spam.py) | AC
 [aprizenoonecanwin](https://open.kattis.com/problems/aprizenoonecanwin) | [A Prize No One Can Win](a_prize_no_one_can_win.py) | AC
 [autori](https://open.kattis.com/problems/autori) | [Autori](autori.py) | AC
+[avion](https://open.kattis.com/problems/avion) | [Avion](avion.py) | AC
 [bijele](https://open.kattis.com/problems/bijele) | [Bijele](bijele.py) | AC
 [birds](https://open.kattis.com/problems/birds) | [Birds On A Wire](birds_on_a_wire.py) | AC
 [bubbletea](https://open.kattis.com/problems/bubbletea) | [Delicious Bubble Tea](delicious_bubble_tea.py) | AC
