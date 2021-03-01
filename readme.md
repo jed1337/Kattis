@@ -55,3 +55,4 @@ Problem | Solution |Verdict
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
 [zamka](https://open.kattis.com/problems/zamka) | [Zamka](zamka.py) | AC
+[zanzibar](https://open.kattis.com/problems/zanzibar) | [Stand On Zanzibar](stand_on_zanzibar.py) | AC
