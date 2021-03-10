@@ -54,6 +54,7 @@ Problem | Solution |Verdict
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
 [trik](https://open.kattis.com/problems/trik) | [Trik](tarifa.py) | AC
+[tripletexting](https://open.kattis.com/problems/tripletexting) | [Triple Texting](triple_texting.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
