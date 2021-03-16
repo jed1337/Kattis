@@ -2,6 +2,8 @@
 
 Python solutions to [Kattis](https://open.kattis.com/) problems
 
+Profile: [Jed Caychingco](https://open.kattis.com/users/jed-caychingco)
+
 Problem | Solution |Verdict
 --- | --- | ---
 [3dprinter](https://open.kattis.com/problems/3dprinter) | [3d Printed Statues](3d_printed_statues.py) | AC
