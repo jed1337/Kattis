@@ -4,7 +4,7 @@ Python solutions to [Kattis](https://open.kattis.com/) problems
 
 Profile: [Jed Caychingco](https://open.kattis.com/users/jed-caychingco)
 
-Problem | Solution |Verdict
+Problem | Solution, Test | Verdict
 --- | --- | ---
 [3dprinter](https://open.kattis.com/problems/3dprinter) | [3d Printed Statues](3d_printed_statues.py) | AC
 [akcija](https://open.kattis.com/problems/akcija) | [Akcija](akcija.py) | AC
@@ -22,6 +22,7 @@ Problem | Solution |Verdict
 [cetvrta](https://open.kattis.com/problems/cetvrta) | [Cetvrta](cetvrta.py) | AC
 [classrooms](https://open.kattis.com/problems/classrooms) | [Classrooms](classrooms.py) | WA
 [cold](https://open.kattis.com/problems/cold) | [Coldputer Science](coldputer_science.py) | AC
+[cookieselection](https://open.kattis.com/problems/cookieselection) | [Cookie Selection](cookie_selection.py), [Test](cookie_selection_test.py) | AC
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
 [dicegame](https://open.kattis.com/problems/dicegame) | [Dice Game](dice_game.py) | AC
 [different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
