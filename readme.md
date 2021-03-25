@@ -7,6 +7,7 @@ Profile: [Jed Caychingco](https://open.kattis.com/users/jed-caychingco)
 Problem | Solution, Test | Verdict
 --- | --- | ---
 [3dprinter](https://open.kattis.com/problems/3dprinter) | [3d Printed Statues](3d_printed_statues.py) | AC
+[abc](https://open.kattis.com/problems/abc) | [Kattis ABC](kattis_abc.py) | AC
 [akcija](https://open.kattis.com/problems/akcija) | [Akcija](akcija.py) | AC
 [alphabetanimals](https://open.kattis.com/problems/alphabetanimals) | [Alphabet Animals](alphabet_animals.py) | AC
 [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [Alphabet Spam](alphabet_spam.py) | AC
