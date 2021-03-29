@@ -58,6 +58,7 @@ Problem | Solution, Test | Verdict
 [pokerhand](https://open.kattis.com/problems/pokerhand) | [Poker Hand](poker_hand.py) | AC
 [r2](https://open.kattis.com/problems/r2) | [R2](r2.py) | AC
 [reconnaissance](https://open.kattis.com/problems/reconnaissance) | [Reconnaissance](reconnaissance.py) | AC
+[reversebinary](https://open.kattis.com/problems/reversebinary) | [Reversed Binary Numbers](reversed_binary_numbers.py) | AC
 [roompainting](https://open.kattis.com/problems/roompainting) | [Room Painting](room_painting.py) | AC
 [savingforretirement](https://open.kattis.com/problems/savingforretirement) | [Saving For Retirement](saving_for_retirement.py) | AC
 [saxophone](https://open.kattis.com/problems/saxophone) | [Eb Alto Saxophone Player](eb_alto_saxophone_player.py) | AC
