@@ -74,6 +74,7 @@ Problem | Solution, Test | Verdict
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
+[vacuumba](https://open.kattis.com/problems/vacuumba) | [Vacuumba](vacuumba.py) | AC
 [veci](https://open.kattis.com/problems/veci) | [Veci](veci.py) | AC
 [videospeedup](https://open.kattis.com/problems/videospeedup) | [Video Speedup](video_speedup.py) | AC
 [zamka](https://open.kattis.com/problems/zamka) | [Zamka](zamka.py) | AC
