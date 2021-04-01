@@ -35,6 +35,7 @@ Problem | Solution, Test | Verdict
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
 [freeweights](https://open.kattis.com/problems/freeweights) | [Free Weights](free_weights.py) | AC
 [froshweek2](https://open.kattis.com/problems/froshweek2) | [Frosh Week 2](frosh_week_2.py) | AC
+[gamerank](https://open.kattis.com/problems/gamerank) | [Game Rank](gamerank.py), [Test](game_rank_test.py) | AC
 [gettowork](https://open.kattis.com/problems/gettowork) | [Get To Work](get_to_work.py) | AC
 [grassseed](https://open.kattis.com/problems/grassseed) | [Grass Seed Inc](grass_seed_inc.py) | AC
 [greetings2](https://open.kattis.com/problems/greetings2) | [Greetings 2](greetings_2.py) | AC
@@ -49,6 +50,7 @@ Problem | Solution, Test | Verdict
 [loworderzeros](https://open.kattis.com/problems/loworderzeros) | [Low Order Zeros](low_order_zeros) | AC
 [lyklagangriti](https://open.kattis.com/problems/lyklagangriti) | [Keystrokes](keystrokes.py) | AC
 [mirror](https://open.kattis.com/problems/mirror) | [Mirror Images](mirror_images.py) | AC
+[modulo](https://open.kattis.com/problems/modulo) | [Modulo](modulo.py) | AC
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
 [natjecanje](https://open.kattis.com/problems/natjecanje) | [Natjecanje](natjecanje.py) | AC
 [oddmanout](https://open.kattis.com/problems/oddmanout) | [Odd Man Out](odd_man_out.py) | AC
