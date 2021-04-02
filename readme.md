@@ -71,6 +71,7 @@ Problem | Solution, Test | Verdict
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
+[tricktreat](https://open.kattis.com/problems/tricktreat) | [Trick or Treat](trick_or_treat.py) | AC
 [trik](https://open.kattis.com/problems/trik) | [Trik](tarifa.py) | AC
 [tripletexting](https://open.kattis.com/problems/tripletexting) | [Triple Texting](triple_texting.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
