@@ -76,6 +76,7 @@ Problem | Solution, Test | Verdict
 [tripletexting](https://open.kattis.com/problems/tripletexting) | [Triple Texting](triple_texting.py) | AC
 [loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
+[throwns](https://open.kattis.com/problems/throwns) | [Game of Throwns](game_of_throwns.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
 [vacuumba](https://open.kattis.com/problems/vacuumba) | [Vacuumba](vacuumba.py) | AC
 [veci](https://open.kattis.com/problems/veci) | [Veci](veci.py) | AC
