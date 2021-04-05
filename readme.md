@@ -53,8 +53,10 @@ Problem | Solution, Test | Verdict
 [modulo](https://open.kattis.com/problems/modulo) | [Modulo](modulo.py) | AC
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
 [natjecanje](https://open.kattis.com/problems/natjecanje) | [Natjecanje](natjecanje.py) | AC
+[oddities](https://open.kattis.com/problems/oddities) | [Oddities](oddities.py) | AC
 [oddmanout](https://open.kattis.com/problems/oddmanout) | [Odd Man Out](odd_man_out.py) | AC
 [outofsorts](https://open.kattis.com/problems/outofsorts) | [Out Of Sorts](out_of_sorts.py) | AC
+[pauleigon](https://open.kattis.com/problems/pauleigon) | [Paul Eigon](paul_eigon.py) | AC
 [pet](https://open.kattis.com/problems/pet) | [Pet](pet.py)| AC
 [pizza2](https://open.kattis.com/problems/pizza2) | [Pizza Crust](pizza_crust.py) | AC
 [pokerhand](https://open.kattis.com/problems/pokerhand) | [Poker Hand](poker_hand.py) | AC
