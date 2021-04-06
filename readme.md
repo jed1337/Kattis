@@ -37,6 +37,7 @@ Problem | Solution, Test | Verdict
 [froshweek2](https://open.kattis.com/problems/froshweek2) | [Frosh Week 2](frosh_week_2.py) | AC
 [gamerank](https://open.kattis.com/problems/gamerank) | [Game Rank](gamerank.py), [Test](game_rank_test.py) | AC
 [gettowork](https://open.kattis.com/problems/gettowork) | [Get To Work](get_to_work.py) | AC
+[geppetto](https://open.kattis.com/problems/geppetto) | [Geppetto](geppetto.py) | AC
 [grassseed](https://open.kattis.com/problems/grassseed) | [Grass Seed Inc](grass_seed_inc.py) | AC
 [greetings2](https://open.kattis.com/problems/greetings2) | [Greetings 2](greetings_2.py) | AC
 [hello](https://open.kattis.com/problems/hello) | [Hello World](hello_world.py) | AC
