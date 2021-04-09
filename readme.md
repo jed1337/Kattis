@@ -54,6 +54,7 @@ Problem | Solution, Test | Verdict
 [mirror](https://open.kattis.com/problems/mirror) | [Mirror Images](mirror_images.py) | AC
 [modulo](https://open.kattis.com/problems/modulo) | [Modulo](modulo.py) | AC
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
+[musicalscales](https://open.kattis.com/problems/musicalscales) | [Musical Scales](musical_scales.py) | AC
 [natjecanje](https://open.kattis.com/problems/natjecanje) | [Natjecanje](natjecanje.py) | AC
 [oddities](https://open.kattis.com/problems/oddities) | [Oddities](oddities.py) | AC
 [oddmanout](https://open.kattis.com/problems/oddmanout) | [Odd Man Out](odd_man_out.py) | AC
