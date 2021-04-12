@@ -56,6 +56,7 @@ Problem | Solution, Test | Verdict
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
 [musicalscales](https://open.kattis.com/problems/musicalscales) | [Musical Scales](musical_scales.py) | AC
 [natjecanje](https://open.kattis.com/problems/natjecanje) | [Natjecanje](natjecanje.py) | AC
+[nodup](https://open.kattis.com/problems/nodup) | [No Duplicates](no_duplicates.py) | AC
 [oddities](https://open.kattis.com/problems/oddities) | [Oddities](oddities.py) | AC
 [oddmanout](https://open.kattis.com/problems/oddmanout) | [Odd Man Out](odd_man_out.py) | AC
 [outofsorts](https://open.kattis.com/problems/outofsorts) | [Out Of Sorts](out_of_sorts.py) | AC
