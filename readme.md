@@ -64,6 +64,7 @@ Problem | Solution, Test | Verdict
 [pet](https://open.kattis.com/problems/pet) | [Pet](pet.py)| AC
 [pizza2](https://open.kattis.com/problems/pizza2) | [Pizza Crust](pizza_crust.py) | AC
 [pokerhand](https://open.kattis.com/problems/pokerhand) | [Poker Hand](poker_hand.py) | AC
+[qaly](https://open.kattis.com/problems/qaly) | [Quality Adjusted Life Year](quality_adjusted_life_year.py) | AC
 [quadrant](https://open.kattis.com/problems/quadrant) | [Quadrant](quadrant.py) | AC
 [r2](https://open.kattis.com/problems/r2) | [R2](r2.py) | AC
 [reconnaissance](https://open.kattis.com/problems/reconnaissance) | [Reconnaissance](reconnaissance.py) | AC
