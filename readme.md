@@ -74,6 +74,7 @@ Problem | Solution, Test | Verdict
 [savingforretirement](https://open.kattis.com/problems/savingforretirement) | [Saving For Retirement](saving_for_retirement.py) | AC
 [saxophone](https://open.kattis.com/problems/saxophone) | [Eb Alto Saxophone Player](eb_alto_saxophone_player.py) | AC
 [shopaholic](https://open.kattis.com/problems/shopaholic) | [Shopaholic](shopaholic.py) | AC
+[sjecista](https://open.kattis.com/problems/sjecista) | [Sjecista](sjecista.py) | AC
 [soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
