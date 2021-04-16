@@ -81,6 +81,7 @@ Problem | Solution, Test | Verdict
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [Synchonizing Lists](synchronizing_lists.py) | AC
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
+[timeloop](https://open.kattis.com/problems/timeloop) | [Stuck In A Time Loop](stuck_in_a_time_loop.py) | AC
 [tricktreat](https://open.kattis.com/problems/tricktreat) | [Trick or Treat](trick_or_treat.py) | AC
 [trik](https://open.kattis.com/problems/trik) | [Trik](tarifa.py) | AC
 [tripletexting](https://open.kattis.com/problems/tripletexting) | [Triple Texting](triple_texting.py) | AC
