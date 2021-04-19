@@ -76,10 +76,11 @@ Problem | Solution, Test | Verdict
 [shopaholic](https://open.kattis.com/problems/shopaholic) | [Shopaholic](shopaholic.py) | AC
 [sibice](https://open.kattis.com/problems/sibice) | [Sibice](sibice.py) | AC
 [sjecista](https://open.kattis.com/problems/sjecista) | [Sjecista](sjecista.py) | AC
-[soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
+[soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
+[suspensionbridges](https://open.kattis.com/problems/suspensionbridges) | [Suspension Bridges](suspension_bridges.py)| AC
 [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [Synchonizing Lists](synchronizing_lists.py) | AC
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
 [timeloop](https://open.kattis.com/problems/timeloop) | [Stuck In A Time Loop](stuck_in_a_time_loop.py) | AC
