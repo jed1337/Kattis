@@ -79,6 +79,7 @@ Problem | Solution, Test | Verdict
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
 [soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
+[stopwatch](https://open.kattis.com/problems/stopwatch) | [Stopwatch](stopwatch.py) | AC
 [supercomputer](https://open.kattis.com/problems/supercomputer) | [Supercomputer](supercomputer.py) | TLE
 [suspensionbridges](https://open.kattis.com/problems/suspensionbridges) | [Suspension Bridges](suspension_bridges.py)| AC
 [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [Synchonizing Lists](synchronizing_lists.py) | AC
