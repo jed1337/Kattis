@@ -49,6 +49,7 @@ Problem | Solution, Test | Verdict
 [haypoints](https://open.kattis.com/problems/haypoints) | [Hay Points](hay_points.py) | AC
 [helpaphd](https://open.kattis.com/problems/helpaphd) | [Help A PhD Candidate Out](help_a_phd_candidate_out.py) | AC
 [icpcteamselection](https://open.kattis.com/problems/icpcteamselection) | [ICPC Team Selection](icpc_team_selection.py) | AC
+[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) |(Jack O Lantern Juxtaposition)[jack_o_lantern_juxtaposition.py] | AC
 [keyboardconcert](https://open.kattis.com/problems/keyboardconcert) | [Keyboard Concert](keyboards_in_concert.py) | TLE
 [kornislav](https://open.kattis.com/problems/kornislav) | [Kornislav](kornislav.py) | AC
 [ladder](https://open.kattis.com/problems/ladder) | [Ladder](ladder.py) | AC
