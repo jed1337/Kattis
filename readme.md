@@ -32,6 +32,7 @@ Problem | Solution, Test | Verdict
 [different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
 [doctorkattis](https://open.kattis.com/problems/doctorkattis) | [Doctor Kattis](doctor_kattis.py) | TLE
 [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [Electrical Outlets](electrical_outlets.py) | AC
+[factstone](https://open.kattis.com/problems/factstone) | [Factstone Benchmark](factstone_benchmark.py), [Factstone Benchmark (Hardcoded)](factstone_benchmark_hardcode.py) | AC
 [faktor](https://open.kattis.com/problems/faktor) | [Faktor](faktor.py) | AC
 [financialplanning](https://open.kattis.com/problems/financialplanning) | [Financial Planning](financial_planning.py) | AC
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
