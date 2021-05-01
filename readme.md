@@ -32,7 +32,7 @@ Problem | Solution, Test | Verdict
 [different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
 [doctorkattis](https://open.kattis.com/problems/doctorkattis) | [Doctor Kattis](doctor_kattis.py) | TLE
 [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [Electrical Outlets](electrical_outlets.py) | AC
-[factstone](https://open.kattis.com/problems/factstone) | [Factstone Benchmark](factstone_benchmark.py), [Factstone Benchmark (Hardcoded)](factstone_benchmark_hardcode.py) | AC
+[factstone](https://open.kattis.com/problems/factstone) | [Factstone Benchmark](factstone_benchmark.py), [Hardcoded version](factstone_benchmark_hardcode.py) | AC
 [faktor](https://open.kattis.com/problems/faktor) | [Faktor](faktor.py) | AC
 [financialplanning](https://open.kattis.com/problems/financialplanning) | [Financial Planning](financial_planning.py) | AC
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
@@ -50,7 +50,7 @@ Problem | Solution, Test | Verdict
 [haypoints](https://open.kattis.com/problems/haypoints) | [Hay Points](hay_points.py) | AC
 [helpaphd](https://open.kattis.com/problems/helpaphd) | [Help A PhD Candidate Out](help_a_phd_candidate_out.py) | AC
 [icpcteamselection](https://open.kattis.com/problems/icpcteamselection) | [ICPC Team Selection](icpc_team_selection.py) | AC
-[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) |(Jack O Lantern Juxtaposition)[jack_o_lantern_juxtaposition.py] | AC
+[jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) |[Jack O Lantern Juxtaposition](jack_o_lantern_juxtaposition.py) | AC
 [keyboardconcert](https://open.kattis.com/problems/keyboardconcert) | [Keyboard Concert](keyboards_in_concert.py) | TLE
 [kornislav](https://open.kattis.com/problems/kornislav) | [Kornislav](kornislav.py) | AC
 [ladder](https://open.kattis.com/problems/ladder) | [Ladder](ladder.py) | AC
