@@ -45,6 +45,7 @@ Problem | Solution, Test | Verdict
 [grassseed](https://open.kattis.com/problems/grassseed) | [Grass Seed Inc](grass_seed_inc.py) | AC
 [greetings2](https://open.kattis.com/problems/greetings2) | [Greetings 2](greetings_2.py) | AC
 [hello](https://open.kattis.com/problems/hello) | [Hello World](hello_world.py) | AC
+[herman](https://open.kattis.com/problems/herman) | [Herman](herman.py) | AC
 [hindex](https://open.kattis.com/problems/hindex) | [H Index](h_index.py) | AC
 [htoo](https://open.kattis.com/problems/htoo) | [H To O](h_to_o.py) | AC
 [haypoints](https://open.kattis.com/problems/haypoints) | [Hay Points](hay_points.py) | AC
