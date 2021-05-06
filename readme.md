@@ -44,6 +44,7 @@ Problem | Solution, Test | Verdict
 [golombrulers](https://open.kattis.com/problems/golombrulers) | [Golomb Rulers](golomb_rulers.py) | AC
 [grassseed](https://open.kattis.com/problems/grassseed) | [Grass Seed Inc](grass_seed_inc.py) | AC
 [greetings2](https://open.kattis.com/problems/greetings2) | [Greetings 2](greetings_2.py) | AC
+[heartrate](https://open.kattis.com/problems/heartrate) | [Heart Rate](heart_rate.py) | AC
 [hello](https://open.kattis.com/problems/hello) | [Hello World](hello_world.py) | AC
 [herman](https://open.kattis.com/problems/herman) | [Herman](herman.py) | AC
 [hindex](https://open.kattis.com/problems/hindex) | [H Index](h_index.py) | AC
