@@ -65,6 +65,7 @@ Problem | Solution, Test | Verdict
 [modulo](https://open.kattis.com/problems/modulo) | [Modulo](modulo.py) | AC
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
 [musicalscales](https://open.kattis.com/problems/musicalscales) | [Musical Scales](musical_scales.py) | AC
+[nastyhacks](https://open.kattis.com/problems/nastyhacks) | [Nasty Hacks](nasty_hacks.py) | AC
 [natjecanje](https://open.kattis.com/problems/natjecanje) | [Natjecanje](natjecanje.py) | AC
 [nodup](https://open.kattis.com/problems/nodup) | [No Duplicates](no_duplicates.py) | AC
 [npuzzle](https://open.kattis.com/problems/npuzzle) | [N-Puzzle](n_puzzle.py) | AC
