@@ -90,6 +90,7 @@ Problem | Solution, Test | Verdict
 [shopaholic](https://open.kattis.com/problems/shopaholic) | [Shopaholic](shopaholic.py) | AC
 [sibice](https://open.kattis.com/problems/sibice) | [Sibice](sibice.py) | AC
 [sjecista](https://open.kattis.com/problems/sjecista) | [Sjecista](sjecista.py) | AC
+[https://open.kattis.com/problems/skener](https://open.kattis.com/problems/skener) | [Skener](skener.py) | AC
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
 [sortofsorting](https://open.kattis.com/problems/sortofsorting) | [Sort Of Sorting](sort_of_sorting.py) | AC
 [soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
