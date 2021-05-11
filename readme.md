@@ -42,6 +42,7 @@ Problem | Solution, Test | Verdict
 [gettowork](https://open.kattis.com/problems/gettowork) | [Get To Work](get_to_work.py) | AC
 [geppetto](https://open.kattis.com/problems/geppetto) | [Geppetto](geppetto.py) | AC
 [golombrulers](https://open.kattis.com/problems/golombrulers) | [Golomb Rulers](golomb_rulers.py) | AC
+[grandpabernie](https://open.kattis.com/problems/grandpabernie) | [Grandpa Bernie](grandpa_bernie.py) | AC
 [grassseed](https://open.kattis.com/problems/grassseed) | [Grass Seed Inc](grass_seed_inc.py) | AC
 [greetings2](https://open.kattis.com/problems/greetings2) | [Greetings 2](greetings_2.py) | AC
 [guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure) | [I Can Guess the Data Structure!](i_can_guess_the_data_structure.py) | AC
