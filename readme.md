@@ -36,6 +36,7 @@ Problem | Solution, Test | Verdict
 [faktor](https://open.kattis.com/problems/faktor) | [Faktor](faktor.py) | AC
 [financialplanning](https://open.kattis.com/problems/financialplanning) | [Financial Planning](financial_planning.py) | AC
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
+[fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | [FizzBuzz](fizzbuzz.py) | AC
 [freeweights](https://open.kattis.com/problems/freeweights) | [Free Weights](free_weights.py) | AC
 [froshweek2](https://open.kattis.com/problems/froshweek2) | [Frosh Week 2](frosh_week_2.py) | AC
 [gamerank](https://open.kattis.com/problems/gamerank) | [Game Rank](gamerank.py), [Test](game_rank_test.py) | AC
