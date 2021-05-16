@@ -80,6 +80,7 @@ Problem | Solution, Test | Verdict
 [perket](https://open.kattis.com/problems/perket) | [Perket](perket.py) | AC
 [permutationencryption](https://open.kattis.com/problems/permutationencryption) | [Permutation Encryption](permutation_encryption.py) | AC
 [pet](https://open.kattis.com/problems/pet) | [Pet](pet.py)| AC
+[piglatin](https://open.kattis.com/problems/piglatin) | [Pig Latin](pig_latin.py)| AC
 [pizza2](https://open.kattis.com/problems/pizza2) | [Pizza Crust](pizza_crust.py) | AC
 [pokerhand](https://open.kattis.com/problems/pokerhand) | [Poker Hand](poker_hand.py) | AC
 [qaly](https://open.kattis.com/problems/qaly) | [Quality Adjusted Life Year](quality_adjusted_life_year.py) | AC
