@@ -47,6 +47,7 @@ Problem | Solution, Test | Verdict
 [grassseed](https://open.kattis.com/problems/grassseed) | [Grass Seed Inc](grass_seed_inc.py) | AC
 [greetings2](https://open.kattis.com/problems/greetings2) | [Greetings 2](greetings_2.py) | AC
 [guessthedatastructure](https://open.kattis.com/problems/guessthedatastructure) | [I Can Guess the Data Structure!](i_can_guess_the_data_structure.py) | AC
+[hangingout](https://open.kattis.com/problems/hangingout) | [Hanging Out On The Terrace](hanging_out_on_the_terrace.py) | AC
 [heartrate](https://open.kattis.com/problems/heartrate) | [Heart Rate](heart_rate.py) | AC
 [hello](https://open.kattis.com/problems/hello) | [Hello World](hello_world.py) | AC
 [herman](https://open.kattis.com/problems/herman) | [Herman](herman.py) | AC
