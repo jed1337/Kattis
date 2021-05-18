@@ -78,6 +78,7 @@ Problem | Solution, Test | Verdict
 [oddmanout](https://open.kattis.com/problems/oddmanout) | [Odd Man Out](odd_man_out.py) | AC
 [outofsorts](https://open.kattis.com/problems/outofsorts) | [Out Of Sorts](out_of_sorts.py) | AC
 [pauleigon](https://open.kattis.com/problems/pauleigon) | [Paul Eigon](paul_eigon.py) | AC
+[patuljci](https://open.kattis.com/problems/patuljci) | [Patuljci](patuljci.py)| AC
 [perket](https://open.kattis.com/problems/perket) | [Perket](perket.py) | AC
 [permutationencryption](https://open.kattis.com/problems/permutationencryption) | [Permutation Encryption](permutation_encryption.py) | AC
 [pet](https://open.kattis.com/problems/pet) | [Pet](pet.py)| AC
