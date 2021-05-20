@@ -99,6 +99,7 @@ Problem | Solution, Test | Verdict
 [sjecista](https://open.kattis.com/problems/sjecista) | [Sjecista](sjecista.py) | AC
 [https://open.kattis.com/problems/skener](https://open.kattis.com/problems/skener) | [Skener](skener.py) | AC
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
+[sodaslurper](https://open.kattis.com/problems/sodaslurper) | [Soda Slurper](soda_slurper.py) | AC
 [sortofsorting](https://open.kattis.com/problems/sortofsorting) | [Sort Of Sorting](sort_of_sorting.py) | AC
 [soylent](https://open.kattis.com/problems/soylent) | [Soylent](soylent.py) | AC
 [squarepegs](https://open.kattis.com/problems/squarepegs) | [Square Peg In A Round Hole](square_peg_in_a_round_hole.py) | AC
