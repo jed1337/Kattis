@@ -67,6 +67,7 @@ Problem | Solution, Test | Verdict
 [licensetolaunch](https://open.kattis.com/problems/licensetolaunch) | [License To Launch](license_to_launch.py) | AC
 [loworderzeros](https://open.kattis.com/problems/loworderzeros) | [Low Order Zeros](low_order_zeros) | AC
 [lyklagangriti](https://open.kattis.com/problems/lyklagangriti) | [Keystrokes](keystrokes.py) | AC
+[minimumscalar](https://open.kattis.com/problems/minimumscalar) | [Minimum Scalar Product](minimum_scalar_product.py) | AC
 [mirror](https://open.kattis.com/problems/mirror) | [Mirror Images](mirror_images.py) | AC
 [modulo](https://open.kattis.com/problems/modulo) | [Modulo](modulo.py) | AC
 [monk](https://open.kattis.com/problems/monk) | [Travelling Monk](travelling_monk.py) | AC
