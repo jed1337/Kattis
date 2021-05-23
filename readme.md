@@ -63,6 +63,7 @@ Problem | Solution, Test | Verdict
 [kornislav](https://open.kattis.com/problems/kornislav) | [Kornislav](kornislav.py) | AC
 [ladder](https://open.kattis.com/problems/ladder) | [Ladder](ladder.py) | AC
 [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) | [Last Factorial Digit](last_factorial_digit.py) | AC
+[leftbeehind](https://open.kattis.com/problems/leftbeehind) | [Left Beehind](left_beehind.py) | AC
 [lektira](https://open.kattis.com/problems/lektira) | [Lektira](lektira.py) | AC
 [licensetolaunch](https://open.kattis.com/problems/licensetolaunch) | [License To Launch](license_to_launch.py) | AC
 [loworderzeros](https://open.kattis.com/problems/loworderzeros) | [Low Order Zeros](low_order_zeros) | AC
