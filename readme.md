@@ -22,6 +22,7 @@ Problem | Solution, Test | Verdict
 [bubbletea](https://open.kattis.com/problems/bubbletea) | [Delicious Bubble Tea](delicious_bubble_tea.py) | AC
 [buka](https://open.kattis.com/problems/buka) | [Buka](buka.py) | AC
 [carefulascent](https://open.kattis.com/problems/carefulascent) | [Careful Ascent](careful_ascent.py) | AC
+[carrots](https://open.kattis.com/problems/carrots)| [Solving For Carrots](solving_for_carrots.py) | AC
 [cetvrta](https://open.kattis.com/problems/cetvrta) | [Cetvrta](cetvrta.py) | AC
 [classrooms](https://open.kattis.com/problems/classrooms) | [Classrooms](classrooms.py) | WA
 [cold](https://open.kattis.com/problems/cold) | [Coldputer Science](coldputer_science.py) | AC
