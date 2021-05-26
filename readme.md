@@ -100,6 +100,7 @@ Problem | Solution, Test | Verdict
 [saxophone](https://open.kattis.com/problems/saxophone) | [Eb Alto Saxophone Player](eb_alto_saxophone_player.py) | AC
 [shopaholic](https://open.kattis.com/problems/shopaholic) | [Shopaholic](shopaholic.py) | AC
 [sibice](https://open.kattis.com/problems/sibice) | [Sibice](sibice.py) | AC
+[simonsays](https://open.kattis.com/problems/simonsays) | [Simon Says](simon_says.py) | AC
 [simpleaddition](https://open.kattis.com/problems/simpleaddition) | [Simple Addition](simple_addition.py) | AC
 [sjecista](https://open.kattis.com/problems/sjecista) | [Sjecista](sjecista.py) | AC
 [https://open.kattis.com/problems/skener](https://open.kattis.com/problems/skener) | [Skener](skener.py) | AC
