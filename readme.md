@@ -98,12 +98,13 @@ Problem | Solution, Test | Verdict
 [roompainting](https://open.kattis.com/problems/roompainting) | [Room Painting](room_painting.py) | AC
 [savingforretirement](https://open.kattis.com/problems/savingforretirement) | [Saving For Retirement](saving_for_retirement.py) | AC
 [saxophone](https://open.kattis.com/problems/saxophone) | [Eb Alto Saxophone Player](eb_alto_saxophone_player.py) | AC
+[securedoors](https://open.kattis.com/problems/securedoors) | [Secure Doors](secure_doors.py) | AC
 [shopaholic](https://open.kattis.com/problems/shopaholic) | [Shopaholic](shopaholic.py) | AC
 [sibice](https://open.kattis.com/problems/sibice) | [Sibice](sibice.py) | AC
 [simonsays](https://open.kattis.com/problems/simonsays) | [Simon Says](simon_says.py) | AC
 [simpleaddition](https://open.kattis.com/problems/simpleaddition) | [Simple Addition](simple_addition.py) | AC
 [sjecista](https://open.kattis.com/problems/sjecista) | [Sjecista](sjecista.py) | AC
-[https://open.kattis.com/problems/skener](https://open.kattis.com/problems/skener) | [Skener](skener.py) | AC
+[skener](https://open.kattis.com/problems/skener) | [Skener](skener.py) | AC
 [smallschedule](https://open.kattis.com/problems/smallschedule) | [Small Schedule](small_schedule.py) | AC
 [sodaslurper](https://open.kattis.com/problems/sodaslurper) | [Soda Slurper](soda_slurper.py) | AC
 [sortofsorting](https://open.kattis.com/problems/sortofsorting) | [Sort Of Sorting](sort_of_sorting.py) | AC
