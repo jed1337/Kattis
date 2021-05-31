@@ -13,6 +13,7 @@ Problem | Solution, Test | Verdict
 [akcija](https://open.kattis.com/problems/akcija) | [Akcija](akcija.py) | AC
 [alphabetanimals](https://open.kattis.com/problems/alphabetanimals) | [Alphabet Animals](alphabet_animals.py) | AC
 [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [Alphabet Spam](alphabet_spam.py) | AC
+[anewalphabet](https://open.kattis.com/problems/anewalphabet) | [A New Alphabet](a_new_alphabet.py) | AC
 [aprizenoonecanwin](https://open.kattis.com/problems/aprizenoonecanwin) | [A Prize No One Can Win](a_prize_no_one_can_win.py) | AC
 [autori](https://open.kattis.com/problems/autori) | [Autori](autori.py) | AC
 [avion](https://open.kattis.com/problems/avion) | [Avion](avion.py) | AC
