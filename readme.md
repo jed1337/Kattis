@@ -28,6 +28,7 @@ Problem | Solution, Test | Verdict
 [classrooms](https://open.kattis.com/problems/classrooms) | [Classrooms](classrooms.py) | WA
 [cold](https://open.kattis.com/problems/cold) | [Coldputer Science](coldputer_science.py) | AC
 [cookieselection](https://open.kattis.com/problems/cookieselection) | [Cookie Selection](cookie_selection.py), [Test](cookie_selection_test.py) | AC
+[cudoviste](https://open.kattis.com/problems/cudoviste) | [Cudoviste](cudoviste.py) | AC
 [cups](https://open.kattis.com/problems/cups) | [Stacking Cups](stacking_cups.py) | AC
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
 [dicegame](https://open.kattis.com/problems/dicegame) | [Dice Game](dice_game.py) | AC
