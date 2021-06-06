@@ -19,6 +19,7 @@ Problem | Solution, Test | Verdict
 [autori](https://open.kattis.com/problems/autori) | [Autori](autori.py) | AC
 [avion](https://open.kattis.com/problems/avion) | [Avion](avion.py) | AC
 [avoidland](https://open.kattis.com/problems/avoidland) | [Avoidland](avoidland.py) | AC
+[babelfish](https://open.kattis.com/problems/babelfish) | [Babelfish](babelfish.py) | AC
 [bijele](https://open.kattis.com/problems/bijele) | [Bijele](bijele.py) | AC
 [birds](https://open.kattis.com/problems/birds) | [Birds On A Wire](birds_on_a_wire.py) | AC
 [bossbattle](https://open.kattis.com/problems/bossbattle) | [Boss Battle](boss_battle.py) | AC
