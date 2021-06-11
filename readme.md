@@ -21,6 +21,7 @@ Problem | Solution, Test | Verdict
 [avoidland](https://open.kattis.com/problems/avoidland) | [Avoidland](avoidland.py) | AC
 [babelfish](https://open.kattis.com/problems/babelfish) | [Babelfish](babelfish.py) | AC
 [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) | [Basic Programming 2](basic_programming_2.py) | AC
+[bela](https://open.kattis.com/problems/bela) | [Bela](bela.py) | AC
 [bijele](https://open.kattis.com/problems/bijele) | [Bijele](bijele.py) | AC
 [birds](https://open.kattis.com/problems/birds) | [Birds On A Wire](birds_on_a_wire.py) | AC
 [bossbattle](https://open.kattis.com/problems/bossbattle) | [Boss Battle](boss_battle.py) | AC
