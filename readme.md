@@ -27,6 +27,7 @@ Problem | Solution, Test | Verdict
 [bossbattle](https://open.kattis.com/problems/bossbattle) | [Boss Battle](boss_battle.py) | AC
 [bubbletea](https://open.kattis.com/problems/bubbletea) | [Delicious Bubble Tea](delicious_bubble_tea.py) | AC
 [buka](https://open.kattis.com/problems/buka) | [Buka](buka.py) | AC
+[busyschedule](https://open.kattis.com/problems/busyschedule) | [Busy Schedule](busy_schedule.py) | AC
 [carefulascent](https://open.kattis.com/problems/carefulascent) | [Careful Ascent](careful_ascent.py) | AC
 [carrots](https://open.kattis.com/problems/carrots)| [Solving For Carrots](solving_for_carrots.py) | AC
 [cetvrta](https://open.kattis.com/problems/cetvrta) | [Cetvrta](cetvrta.py) | AC
