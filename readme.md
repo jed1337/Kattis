@@ -35,6 +35,7 @@ Problem | Solution, Test | Verdict
 [closestsums](https://open.kattis.com/problems/closestsums) | [Closest Sums](closest_sums.py) | AC
 [cold](https://open.kattis.com/problems/cold) | [Coldputer Science](coldputer_science.py) | AC
 [cookieselection](https://open.kattis.com/problems/cookieselection) | [Cookie Selection](cookie_selection.py), [Test](cookie_selection_test.py) | AC
+[countingclauses](https://open.kattis.com/problems/countingclauses) | [Counting Clauses](counting_clauses.py) | AC
 [cudoviste](https://open.kattis.com/problems/cudoviste) | [Cudoviste](cudoviste.py) | AC
 [cups](https://open.kattis.com/problems/cups) | [Stacking Cups](stacking_cups.py) | AC
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
