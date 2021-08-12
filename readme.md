@@ -38,6 +38,7 @@ Problem | Solution, Test | Verdict
 [countingclauses](https://open.kattis.com/problems/countingclauses) | [Counting Clauses](counting_clauses.py) | AC
 [cudoviste](https://open.kattis.com/problems/cudoviste) | [Cudoviste](cudoviste.py) | AC
 [cups](https://open.kattis.com/problems/cups) | [Stacking Cups](stacking_cups.py) | AC
+[deathknight](https://open.kattis.com/problems/deathknight) | [Death Knight Hero](death_knight_hero.py) | AC
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
 [dicegame](https://open.kattis.com/problems/dicegame) | [Dice Game](dice_game.py) | AC
 [different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
