@@ -40,6 +40,7 @@ Problem | Solution, Test | Verdict
 [cups](https://open.kattis.com/problems/cups) | [Stacking Cups](stacking_cups.py) | AC
 [deathknight](https://open.kattis.com/problems/deathknight) | [Death Knight Hero](death_knight_hero.py) | AC
 [delivery](https://open.kattis.com/problems/delivery) | [Delivery](delivery.py) | AC
+[detaileddifferences](https://open.kattis.com/problems/detaileddifferences) | [Detailed Differences](detailed_differences.py) | AC
 [dicegame](https://open.kattis.com/problems/dicegame) | [Dice Game](dice_game.py) | AC
 [different](https://open.kattis.com/problems/different/) | [A Different Problem](a_different_problem.py) | AC
 [doctorkattis](https://open.kattis.com/problems/doctorkattis) | [Doctor Kattis](doctor_kattis.py) | TLE
