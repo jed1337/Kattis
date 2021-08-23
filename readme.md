@@ -51,6 +51,7 @@ Problem | Solution, Test | Verdict
 [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [Electrical Outlets](electrical_outlets.py) | AC
 [factstone](https://open.kattis.com/problems/factstone) | [Factstone Benchmark](factstone_benchmark.py), [Hardcoded version](factstone_benchmark_hardcode.py) | AC
 [faktor](https://open.kattis.com/problems/faktor) | [Faktor](faktor.py) | AC
+[fiftyshades](https://open.kattis.com/problems/fiftyshades) | [Fifty Shades of Pink] | (fifty_shades_of_pink.py) | AC
 [financialplanning](https://open.kattis.com/problems/financialplanning) | [Financial Planning](financial_planning.py) | AC
 [firefly](https://open.kattis.com/problems/firefly) | [Firefly](firefly.py) | AC
 [fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | [FizzBuzz](fizzbuzz.py) | AC
