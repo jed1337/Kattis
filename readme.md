@@ -73,6 +73,7 @@ Problem | Solution, Test | Verdict
 [hello](https://open.kattis.com/problems/hello) | [Hello World](hello_world.py) | AC
 [herman](https://open.kattis.com/problems/herman) | [Herman](herman.py) | AC
 [hindex](https://open.kattis.com/problems/hindex) | [H Index](h_index.py) | AC
+[hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | [Hissing Microphone](hissing_microphone.py) | AC
 [htoo](https://open.kattis.com/problems/htoo) | [H To O](h_to_o.py) | AC
 [haypoints](https://open.kattis.com/problems/haypoints) | [Hay Points](hay_points.py) | AC
 [helpaphd](https://open.kattis.com/problems/helpaphd) | [Help A PhD Candidate Out](help_a_phd_candidate_out.py) | AC
