@@ -88,6 +88,7 @@ Problem | Solution, Test | Verdict
 [leftbeehind](https://open.kattis.com/problems/leftbeehind) | [Left Beehind](left_beehind.py) | AC
 [lektira](https://open.kattis.com/problems/lektira) | [Lektira](lektira.py) | AC
 [licensetolaunch](https://open.kattis.com/problems/licensetolaunch) | [License To Launch](license_to_launch.py) | AC
+[loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
 [loworderzeros](https://open.kattis.com/problems/loworderzeros) | [Low Order Zeros](low_order_zeros) | AC
 [lyklagangriti](https://open.kattis.com/problems/lyklagangriti) | [Keystrokes](keystrokes.py) | AC
 [minimumscalar](https://open.kattis.com/problems/minimumscalar) | [Minimum Scalar Product](minimum_scalar_product.py) | AC
@@ -140,9 +141,7 @@ Problem | Solution, Test | Verdict
 [tricktreat](https://open.kattis.com/problems/tricktreat) | [Trick or Treat](trick_or_treat.py) | AC
 [trik](https://open.kattis.com/problems/trik) | [Trik](tarifa.py) | AC
 [tripletexting](https://open.kattis.com/problems/tripletexting) | [Triple Texting](triple_texting.py) | AC
-[loowater](https://open.kattis.com/problems/loowater) | [The Dragon Of Loowater](the_dragon_of_loowater.py) | AC
-[modulo](https://open.kattis.com/problems/modulo) | [Modulo](modulo.py) | AC
-[monk](https://open.kattis.com/problems/monk/) | [Travelling Monk](travelling_monk.py) | AC
+[tutorial](https://open.kattis.com/problems/tutorial) | [ICPC Tutorial](icpc_tutorial.py) | AC
 [throwns](https://open.kattis.com/problems/throwns) | [Game of Throwns](game_of_throwns.py) | AC
 [twostones](https://open.kattis.com/problems/twostones) | [Two Stones](two_stones.py) | AC
 [vacuumba](https://open.kattis.com/problems/vacuumba) | [Vacuumba](vacuumba.py) | AC
