@@ -49,6 +49,7 @@ Problem | Solution, Test | Verdict
 [drmmessages](https://open.kattis.com/problems/drmmessages) | [DRM Messages](drm_messages.py) | AC
 [dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Dyslectionary](dyslectionary.py) | ACc
 [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [Electrical Outlets](electrical_outlets.py) | AC
+[everywhere](https://open.kattis.com/problems/everywhere) | [I've Been Everywhere Man](ive_been_everywhere_man.py) | AC
 [factstone](https://open.kattis.com/problems/factstone) | [Factstone Benchmark](factstone_benchmark.py), [Hardcoded version](factstone_benchmark_hardcode.py) | AC
 [faktor](https://open.kattis.com/problems/faktor) | [Faktor](faktor.py) | AC
 [fiftyshades](https://open.kattis.com/problems/fiftyshades) | [Fifty Shades of Pink] | (fifty_shades_of_pink.py) | AC
@@ -78,7 +79,6 @@ Problem | Solution, Test | Verdict
 [haypoints](https://open.kattis.com/problems/haypoints) | [Hay Points](hay_points.py) | AC
 [helpaphd](https://open.kattis.com/problems/helpaphd) | [Help A PhD Candidate Out](help_a_phd_candidate_out.py) | AC
 [icpcteamselection](https://open.kattis.com/problems/icpcteamselection) | [ICPC Team Selection](icpc_team_selection.py) | AC
-[thinkingofanumber](https://open.kattis.com/problems/thinkingofanumber) | [I'm Thinking of a Number](im_thinking_of_a_number.py), [Test](im_thinking_of_a_number_test.py) | AC
 [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) |[Jack O Lantern Juxtaposition](jack_o_lantern_juxtaposition.py) | AC
 [jewelrybox](https://open.kattis.com/problems/jewelrybox) | [Jewelry Box](jewelry_box.py) | AC
 [keyboardconcert](https://open.kattis.com/problems/keyboardconcert) | [Keyboard Concert](keyboards_in_concert.py) | TLE
@@ -137,6 +137,7 @@ Problem | Solution, Test | Verdict
 [suspensionbridges](https://open.kattis.com/problems/suspensionbridges) | [Suspension Bridges](suspension_bridges.py)| AC
 [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [Synchonizing Lists](synchronizing_lists.py) | AC
 [tarifa](https://open.kattis.com/problems/tarifa) | [Tarifa](tarifa.py) | AC
+[thinkingofanumber](https://open.kattis.com/problems/thinkingofanumber) | [I'm Thinking of a Number](im_thinking_of_a_number.py), [Test](im_thinking_of_a_number_test.py) | AC
 [timeloop](https://open.kattis.com/problems/timeloop) | [Stuck In A Time Loop](stuck_in_a_time_loop.py) | AC
 [tricktreat](https://open.kattis.com/problems/tricktreat) | [Trick or Treat](trick_or_treat.py) | AC
 [trik](https://open.kattis.com/problems/trik) | [Trik](tarifa.py) | AC
