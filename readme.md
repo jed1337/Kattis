@@ -81,6 +81,7 @@ Problem | Solution, Test | Verdict
 [icpcteamselection](https://open.kattis.com/problems/icpcteamselection) | [ICPC Team Selection](icpc_team_selection.py) | AC
 [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) |[Jack O Lantern Juxtaposition](jack_o_lantern_juxtaposition.py) | AC
 [jewelrybox](https://open.kattis.com/problems/jewelrybox) | [Jewelry Box](jewelry_box.py) | AC
+[judgingmoose](https://open.kattis.com/problems/judgingmoose) | [Judging Moose](judging_moose.py) | AC
 [keyboardconcert](https://open.kattis.com/problems/keyboardconcert) | [Keyboard Concert](keyboards_in_concert.py) | TLE
 [kornislav](https://open.kattis.com/problems/kornislav) | [Kornislav](kornislav.py) | AC
 [ladder](https://open.kattis.com/problems/ladder) | [Ladder](ladder.py) | AC
