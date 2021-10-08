@@ -16,6 +16,7 @@ Problem | Solution, Test | Verdict
 [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [Alphabet Spam](alphabet_spam.py) | AC
 [anewalphabet](https://open.kattis.com/problems/anewalphabet) | [A New Alphabet](a_new_alphabet.py) | AC
 [aprizenoonecanwin](https://open.kattis.com/problems/aprizenoonecanwin) | [A Prize No One Can Win](a_prize_no_one_can_win.py) | AC
+[areal](https://open.kattis.com/problems/areal) | [A Real Challenge](a_real_challenge.py)| AC
 [autori](https://open.kattis.com/problems/autori) | [Autori](autori.py) | AC
 [avion](https://open.kattis.com/problems/avion) | [Avion](avion.py) | AC
 [avoidland](https://open.kattis.com/problems/avoidland) | [Avoidland](avoidland.py) | AC
