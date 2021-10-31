@@ -33,6 +33,7 @@ Problem | Solution, Test | Verdict
 [carrots](https://open.kattis.com/problems/carrots)| [Solving For Carrots](solving_for_carrots.py) | AC
 [cetvrta](https://open.kattis.com/problems/cetvrta) | [Cetvrta](cetvrta.py) | AC
 [classrooms](https://open.kattis.com/problems/classrooms) | [Classrooms](classrooms.py) | WA
+[classy](https://open.kattis.com/problems/classy) | [A Classy Problem](a_classy_problem.py) | AC
 [closestsums](https://open.kattis.com/problems/closestsums) | [Closest Sums](closest_sums.py) | AC
 [cold](https://open.kattis.com/problems/cold) | [Coldputer Science](coldputer_science.py) | AC
 [cookieselection](https://open.kattis.com/problems/cookieselection) | [Cookie Selection](cookie_selection.py), [Test](cookie_selection_test.py) | AC
